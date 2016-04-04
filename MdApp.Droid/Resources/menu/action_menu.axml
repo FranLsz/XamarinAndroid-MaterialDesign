@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:myapp="http://schemas.android.com/apk/res-auto">
+
+  <item android:id="@+id/a1"
+       android:title="Options"
+       myapp:showAsAction="never"/>
+
+  <item android:id="@+id/a2"
+      android:title="Option2"
+      myapp:showAsAction="never"/>
+
+  <item android:id="@+id/a3"
+      android:title="Option3"
+      myapp:showAsAction="never"/>
+</menu>
